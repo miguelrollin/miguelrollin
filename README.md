@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Miguel 👋
 
-<!--
-**miguelrollin/miguelrollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE student at Lovely Professional University (LPU), Kerala, India.
 
-Here are some ideas to get you started:
+## About me
+- 2+ years of HTML/CSS, with state-level competition wins
+- Design-focused projects in Unity (C#)
+- Learning C++ and data structures & algorithms
+- Next up: JavaScript and web AR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- Small C++ programs (calculator, games, bank manager)
+- Exploring ViewNest, an idea for browser-based AR product views for small online sellers (early stage, still being tested)
+
+## Tools
+HTML · CSS · C++ · C# · Unity · Python (basics) · Git
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/miguel-rollin-583bb43a3/)
